@@ -1,4 +1,4 @@
-<img src="READMEAssets/Cover.png" width="1886" height="868">
+<img src="Cover.png" width="1886" height="500">
 
 Creative, passionate and hardworking iOS Developer with 7+ years of experience, managing all aspects of the iOS application Development life cycle.
 
