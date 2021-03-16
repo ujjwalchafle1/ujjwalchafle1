@@ -11,7 +11,7 @@ I pay close attention to details to ensure accuracy and to help create elegant n
 
 I have outstanding verbal and writing skills along with active listening skills. I also have great people skills with the ability to get along well with co-workers when working as a team but I can also work independently when required. 
 
-I am dependable and trustworthy with the skills needed to be a great asset to your company. 
+I am dependable and trustworthy with the skills needed to be a great asset to any team. 
 
 You can support my open-source repositories.
 
