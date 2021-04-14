@@ -1,4 +1,4 @@
-<img src="Cover1.jpeg" width="900" height="300">
+<img src="Cover2.jpeg" width="900" height="300">
 
 Creative, passionate and hardworking iOS Developer with 7+ years of experience, managing all aspects of the iOS application Development life cycle.
 
