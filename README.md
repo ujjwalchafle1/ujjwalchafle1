@@ -13,8 +13,6 @@ I have outstanding verbal and writing skills along with active listening skills.
 
 I am dependable and trustworthy with the skills needed to be a great asset to any team. 
 
-You can support my open-source repositories.
-
 📫 How to reach me:
 - Email     : ujjwalchafle1@gmail.com
 - Linkedin  : www.linkedin.com/in/ujjwal-chafle
