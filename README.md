@@ -16,7 +16,7 @@ I am dependable and trustworthy with the skills needed to be a great asset to an
 📫 How to reach me:
 - Email     : ujjwalchafle1@gmail.com
 - Linkedin  : www.linkedin.com/in/ujjwal-chafle
-- Twitter   : u_chafle
+- Twitter   : [u_chafle](https://twitter.com/u_chafle)
 
 <!--
 **ujjwalchafle1/ujjwalchafle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
