@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm ujjwal, a passionate iOS Developer from London. Welcome to my GitHub profile! 👨‍💻
+I'm ujjwal, an iOS Developer from London. Welcome to my GitHub profile! 👨‍💻
 
 ## About Me
 
